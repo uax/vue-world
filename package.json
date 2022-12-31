@@ -12,7 +12,7 @@
   },
   "devDependencies": {
     "@mathieustan/vue-datepicker": "^0.1.8-rc.5",
-    "@vue/cli-plugin-babel": "^3.10.0",
+    "@vue/cli-plugin-babel": "^5.0.8",
     "@vue/cli-service": "^5.0.8",
     "vue-template-compiler": "^2.6.10"
   },
